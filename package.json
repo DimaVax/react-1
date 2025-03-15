@@ -1,7 +1,7 @@
 {
   "name": "react-1",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://dimavax.github.io/react-1/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
